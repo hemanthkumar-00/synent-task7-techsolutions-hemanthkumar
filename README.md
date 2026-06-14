@@ -1,5 +1,8 @@
 # Tech Solutions – Multi-Page Website
 
+## Live Demo
+https://hemanthkumar-00.github.io/synent-task7-techsolutions-hemanthkumar/
+
 ## Objective
 
 To design and develop a professional multi-page website for a technology company with a responsive layout and interactive features.
